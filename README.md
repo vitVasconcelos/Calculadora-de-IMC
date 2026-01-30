@@ -2,6 +2,8 @@
 
 Projeto desenvolvido com **HTML, CSS e JavaScript**, que permite calcular o **Índice de Massa Corporal (IMC)** e exibir a classificação correspondente com base nos valores informados pelo usuário.
 
+Visite o site: https://vitvasconcelos.github.io/Calculadora-de-IMC/
+
 Além do cálculo, o projeto apresenta uma **tabela de referência** com as classificações de IMC, construída dinamicamente com JavaScript.
 
 Prévia:
